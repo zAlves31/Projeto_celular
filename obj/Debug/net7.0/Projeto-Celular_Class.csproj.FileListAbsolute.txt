@@ -1,0 +1,15 @@
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\bin\Debug\net7.0\Projeto-Celular_Class.exe
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\bin\Debug\net7.0\Projeto-Celular_Class.deps.json
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\bin\Debug\net7.0\Projeto-Celular_Class.runtimeconfig.json
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\bin\Debug\net7.0\Projeto-Celular_Class.dll
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\bin\Debug\net7.0\Projeto-Celular_Class.pdb
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.csproj.AssemblyReference.cache
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.dll
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\refint\Projeto-Celular_Class.dll
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.pdb
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\Projeto-Celular_Class.genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Projeto-Celular_Class\obj\Debug\net7.0\ref\Projeto-Celular_Class.dll

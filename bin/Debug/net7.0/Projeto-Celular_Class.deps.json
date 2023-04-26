@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projeto-Celular_Class/1.0.0": {
+        "runtime": {
+          "Projeto-Celular_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto-Celular_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
